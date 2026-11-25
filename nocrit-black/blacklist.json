@@ -1,0 +1,667 @@
+{
+  "schema": 1,
+  "serial": 20261125140619,
+  "description": "Чорний список організації: HIGH + карантин",
+  "entries": [
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.exe",
+      "comment": "Робочий стіл: виконувані / скрипти .exe (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.msi",
+      "comment": "Робочий стіл: виконувані / скрипти .msi (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.scr",
+      "comment": "Робочий стіл: виконувані / скрипти .scr (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.com",
+      "comment": "Робочий стіл: виконувані / скрипти .com (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.cpl",
+      "comment": "Робочий стіл: виконувані / скрипти .cpl (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.dll",
+      "comment": "Робочий стіл: виконувані / скрипти .dll (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.ocx",
+      "comment": "Робочий стіл: виконувані / скрипти .ocx (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.sys",
+      "comment": "Робочий стіл: виконувані / скрипти .sys (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.xll",
+      "comment": "Робочий стіл: виконувані / скрипти .xll (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.msc",
+      "comment": "Робочий стіл: виконувані / скрипти .msc (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.bat",
+      "comment": "Робочий стіл: виконувані / скрипти .bat (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.cmd",
+      "comment": "Робочий стіл: виконувані / скрипти .cmd (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.ps1",
+      "comment": "Робочий стіл: виконувані / скрипти .ps1 (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.psm1",
+      "comment": "Робочий стіл: виконувані / скрипти .psm1 (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.vbs",
+      "comment": "Робочий стіл: виконувані / скрипти .vbs (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.vbe",
+      "comment": "Робочий стіл: виконувані / скрипти .vbe (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.js",
+      "comment": "Робочий стіл: виконувані / скрипти .js (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.jse",
+      "comment": "Робочий стіл: виконувані / скрипти .jse (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.wsf",
+      "comment": "Робочий стіл: виконувані / скрипти .wsf (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.wsh",
+      "comment": "Робочий стіл: виконувані / скрипти .wsh (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.hta",
+      "comment": "Робочий стіл: виконувані / скрипти .hta (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Desktop\\**.jar",
+      "comment": "Робочий стіл: виконувані / скрипти .jar (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.exe",
+      "comment": "Завантаження: виконувані / скрипти .exe (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.msi",
+      "comment": "Завантаження: виконувані / скрипти .msi (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.scr",
+      "comment": "Завантаження: виконувані / скрипти .scr (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.com",
+      "comment": "Завантаження: виконувані / скрипти .com (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.cpl",
+      "comment": "Завантаження: виконувані / скрипти .cpl (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.dll",
+      "comment": "Завантаження: виконувані / скрипти .dll (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.ocx",
+      "comment": "Завантаження: виконувані / скрипти .ocx (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.sys",
+      "comment": "Завантаження: виконувані / скрипти .sys (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.xll",
+      "comment": "Завантаження: виконувані / скрипти .xll (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.msc",
+      "comment": "Завантаження: виконувані / скрипти .msc (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.bat",
+      "comment": "Завантаження: виконувані / скрипти .bat (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.cmd",
+      "comment": "Завантаження: виконувані / скрипти .cmd (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.ps1",
+      "comment": "Завантаження: виконувані / скрипти .ps1 (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.psm1",
+      "comment": "Завантаження: виконувані / скрипти .psm1 (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.vbs",
+      "comment": "Завантаження: виконувані / скрипти .vbs (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.vbe",
+      "comment": "Завантаження: виконувані / скрипти .vbe (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.js",
+      "comment": "Завантаження: виконувані / скрипти .js (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.jse",
+      "comment": "Завантаження: виконувані / скрипти .jse (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.wsf",
+      "comment": "Завантаження: виконувані / скрипти .wsf (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.wsh",
+      "comment": "Завантаження: виконувані / скрипти .wsh (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.hta",
+      "comment": "Завантаження: виконувані / скрипти .hta (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Downloads\\**.jar",
+      "comment": "Завантаження: виконувані / скрипти .jar (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.exe",
+      "comment": "Документи: виконувані / скрипти .exe (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.msi",
+      "comment": "Документи: виконувані / скрипти .msi (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.scr",
+      "comment": "Документи: виконувані / скрипти .scr (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.com",
+      "comment": "Документи: виконувані / скрипти .com (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.cpl",
+      "comment": "Документи: виконувані / скрипти .cpl (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.dll",
+      "comment": "Документи: виконувані / скрипти .dll (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.ocx",
+      "comment": "Документи: виконувані / скрипти .ocx (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.sys",
+      "comment": "Документи: виконувані / скрипти .sys (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.xll",
+      "comment": "Документи: виконувані / скрипти .xll (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.msc",
+      "comment": "Документи: виконувані / скрипти .msc (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.bat",
+      "comment": "Документи: виконувані / скрипти .bat (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.cmd",
+      "comment": "Документи: виконувані / скрипти .cmd (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.ps1",
+      "comment": "Документи: виконувані / скрипти .ps1 (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.psm1",
+      "comment": "Документи: виконувані / скрипти .psm1 (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.vbs",
+      "comment": "Документи: виконувані / скрипти .vbs (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.vbe",
+      "comment": "Документи: виконувані / скрипти .vbe (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.js",
+      "comment": "Документи: виконувані / скрипти .js (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.jse",
+      "comment": "Документи: виконувані / скрипти .jse (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.wsf",
+      "comment": "Документи: виконувані / скрипти .wsf (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.wsh",
+      "comment": "Документи: виконувані / скрипти .wsh (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.hta",
+      "comment": "Документи: виконувані / скрипти .hta (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\Documents\\**.jar",
+      "comment": "Документи: виконувані / скрипти .jar (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.exe",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .exe (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.msi",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .msi (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.scr",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .scr (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.com",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .com (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.cpl",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .cpl (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.dll",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .dll (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.ocx",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .ocx (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.sys",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .sys (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.xll",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .xll (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.msc",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .msc (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.bat",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .bat (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.cmd",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .cmd (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.ps1",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .ps1 (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.psm1",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .psm1 (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.vbs",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .vbs (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.vbe",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .vbe (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.js",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .js (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.jse",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .jse (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.wsf",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .wsf (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.wsh",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .wsh (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.hta",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .hta (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Desktop\\**.jar",
+      "comment": "Робочий стіл в OneDrive: виконувані / скрипти .jar (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.exe",
+      "comment": "Документи в OneDrive: виконувані / скрипти .exe (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.msi",
+      "comment": "Документи в OneDrive: виконувані / скрипти .msi (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.scr",
+      "comment": "Документи в OneDrive: виконувані / скрипти .scr (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.com",
+      "comment": "Документи в OneDrive: виконувані / скрипти .com (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.cpl",
+      "comment": "Документи в OneDrive: виконувані / скрипти .cpl (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.dll",
+      "comment": "Документи в OneDrive: виконувані / скрипти .dll (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.ocx",
+      "comment": "Документи в OneDrive: виконувані / скрипти .ocx (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.sys",
+      "comment": "Документи в OneDrive: виконувані / скрипти .sys (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.xll",
+      "comment": "Документи в OneDrive: виконувані / скрипти .xll (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.msc",
+      "comment": "Документи в OneDrive: виконувані / скрипти .msc (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.bat",
+      "comment": "Документи в OneDrive: виконувані / скрипти .bat (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.cmd",
+      "comment": "Документи в OneDrive: виконувані / скрипти .cmd (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.ps1",
+      "comment": "Документи в OneDrive: виконувані / скрипти .ps1 (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.psm1",
+      "comment": "Документи в OneDrive: виконувані / скрипти .psm1 (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.vbs",
+      "comment": "Документи в OneDrive: виконувані / скрипти .vbs (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.vbe",
+      "comment": "Документи в OneDrive: виконувані / скрипти .vbe (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.js",
+      "comment": "Документи в OneDrive: виконувані / скрипти .js (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.jse",
+      "comment": "Документи в OneDrive: виконувані / скрипти .jse (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.wsf",
+      "comment": "Документи в OneDrive: виконувані / скрипти .wsf (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.wsh",
+      "comment": "Документи в OneDrive: виконувані / скрипти .wsh (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.hta",
+      "comment": "Документи в OneDrive: виконувані / скрипти .hta (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    },
+    {
+      "path": "C:\\Users\\*\\OneDrive*\\Documents\\**.jar",
+      "comment": "Документи в OneDrive: виконувані / скрипти .jar (у теці й підтеках) — HIGH + карантин",
+      "added": "2026-11-23",
+      "by": "admin"
+    }
+  ]
+}
